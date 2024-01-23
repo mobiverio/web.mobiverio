@@ -5,7 +5,9 @@
               <div class="row">
                   <div class="col-xl-3 col-lg-4 col-md-6">
                       <div class="footer-widget mb-60 wow fadeInLeft" data-wow-delay=".2s">
-                          <a href="{{route('/')}}" class="logo mb-30"><img src="assets/img/logo/logo.svg" alt="logo"></a>
+                          {{-- <a href="{{route('/')}}" class="logo mb-30"><img src="assets/img/logo/logo.svg" alt="logo"></a> --}}
+                          <h2  class="mb-25 wow fadeInDown"><a href="{{route('/')}}" class="logo mb-30" >MOBIVERIO</a></h2>
+                    
                          
                       </div>
                   </div>
@@ -34,17 +36,24 @@
                           <h4>Service</h4>
                           <ul class="footer-links">
                               <li>
-                                  <a href="javascript:void(0)">Marketing</a>
+                                  <a href="javascript:void(0)">Custom Software Development</a>
                               </li>
                               <li>
-                                  <a href="javascript:void(0)">Branding</a>
+                                  <a href="javascript:void(0)">Mobile App Development</a>
                               </li>
                               <li>
-                                  <a href="javascript:void(0)">Web Design</a>
+                                  <a href="javascript:void(0)">Cloud Solutions
+                                </a>
                               </li>
                               <li>
-                                  <a href="javascript:void(0)">Graphics Design</a>
-                              </li> 
+                                <a href="javascript:void(0)">UI/UX Design
+                              </a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)">Blockchain Solutions
+                              </a>
+                            </li>
+                          
                           </ul>
                       </div>
                   </div>
@@ -71,14 +80,14 @@
                       <div class="col-md-6">
                           <div class="footer-social-links">
                               <ul class="d-flex">
-                                  <li><a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a></li>
-                                  <li><a href="javascript:void(0)"><i class="lni lni-twitter-filled"></i></a></li>
-                                  <li><a href="javascript:void(0)"><i class="lni lni-instagram-filled"></i></a></li>
+                                  <li><a href="https://facebook.com/mobiverio"><i class="lni lni-facebook-filled"></i></a></li>
+                                  <li><a href="https://x.com/mobiverio"><i class="lni lni-twitter-filled"></i></a></li>
+                                  <li><a href="https://instagram.com/mobiverio"><i class="lni lni-instagram-filled"></i></a></li>
                               </ul>
                           </div>
                       </div>
                       <div class="col-md-6">
-                          <p class="wow fadeInUp" data-wow-delay=".3s">Crafted with 🤍 by <a
+                          <p class="wow fadeInUp" data-wow-delay=".3s">Crafted with 🤍 @ <a
                                   href="{{route('/')}}" rel="nofollow">Mobiverio</a></p>
                       </div>
                   </div>

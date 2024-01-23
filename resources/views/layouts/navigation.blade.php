@@ -5,9 +5,10 @@
               <div class="row align-items-center">
                   <div class="col-lg-12">
                       <nav class="navbar navbar-expand-lg">
-                          <a class="navbar-brand" href="{{route('/')}}">
+                          {{-- <a class="navbar-brand" href="{{route('/')}}">
                               <img  src="assets/img/logo/mobiverio.png" alt="Logo">
-                          </a>
+                          </a> --}}
+                         <h1  class="mb-25 wow fadeInDown"> <a class="navbar-brand" style="font-size:30px" href="{{route('/')}}" href="">MOBIVERIO </a></h1>
                           <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                               data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                               aria-expanded="false" aria-label="Toggle navigation">
@@ -65,9 +66,9 @@
                                   </li>
                               </ul>
                            
-                              <div  class="search-form"> 
-                                <a href="#" class="theme-btn">Request a call</a>
-                              </div>
+                              {{-- <div  class="search-form"> 
+                                <a href="#" class="theme-btn">Request a Discovery call</a>
+                              </div> --}}
                           </div> <!-- navbar collapse -->
                       </nav> <!-- navbar -->
                   </div>

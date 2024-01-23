@@ -11,11 +11,11 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="banner-content">
-                            <h2 class="text-white">Our Best Services</h2>
+                            <h2 class="text-white">Our Services</h2>
                             <div class="page-breadcrumb">
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
-                                        <li class="breadcrumb-item" aria-current="page"><a href="javascript:void(0)">Home</a></li>
+                                        <li class="breadcrumb-item" aria-current="page"><a href="{{route('/')}}">Home</a></li>
                                         <li class="breadcrumb-item active" aria-current="page">Service</li>
                                     </ol>
                                 </nav>
@@ -44,13 +44,8 @@
                                 <div class="col-xl-8 col-lg-10 mx-auto">
                                     <div class="carousel-content text-center">
                                         <div class="section-title">
-                                            <h2 class="text-white">Create Stunning Websites in Easier
-                                                and Effecient Way!</h2>
-                                            <p class="text-white">We Crafted an awesome design library that is
-                                                robust and intuitive to use. No matter you're building a business
-                                                presentation
-                                                websit or a complex web application our design blocks can easily be
-                                                adapted for your needs.</p>
+                                            <h2 class="text-white">Elevate Your Business Today!</h2>
+                                            <p class="text-white">Take the leap into the future with our transformative technology solutions. Whether it's enhancing efficiency, improving user experiences, or staying ahead in the competitive landscape – we're your partner in digital transformation.</p>
                                         </div>
                                         <a href="javascript:void(0)" class="theme-btn border-btn">Read More</a>
                                     </div>
@@ -64,12 +59,8 @@
                                 <div class="col-xl-8 col-lg-10 mx-auto">
                                     <div class="carousel-content text-center">
                                         <div class="section-title">
-                                            <h2 class="text-white">We Crafted an awesome design library that is
-                                                robust and intuitive to use.</h2>
-                                            <p class="text-white">Create Stunning Websites in Easier
-                                                and Effecient Way! No matter you're building a business
-                                                presentation websit or a complex web application our design blocks can easily be
-                                                adapted for your needs.</p>
+                                            <h2 class="text-white">Ignite Innovation: Discover Cutting-Edge Solutions Now!</h2>
+                                            <p class="text-white">Explore our portfolio of innovative software solutions designed to propel your business forward. From bespoke applications to advanced tech integrations, we're here to redefine what's possible in the digital realm.</p>
                                         </div>
                                         <a href="javascript:void(0)" class="theme-btn border-btn">Read More</a>
                                     </div>
